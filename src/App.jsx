@@ -1,5 +1,5 @@
 import React from "react";
-import About from "./components/About";
+import About2 from "./components/About2";
 import Proyects from "./components/Proyects";
 import Education from "./components/Education";
 import Skills2 from "./components/Skills2";
@@ -18,7 +18,7 @@ function App() {
             Benjamin Szodo
           </h1>
           <div>
-            <About/>
+            <About2/>
           </div>
           <div>
             <Proyects/>
