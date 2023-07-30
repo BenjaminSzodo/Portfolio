@@ -1,6 +1,6 @@
 import React from "react";
 import About2 from "./components/About2";
-import Proyects from "./components/Proyects";
+import Proyects2 from "./components/Proyects2";
 import Education from "./components/Education";
 import Skills2 from "./components/Skills2";
 import Contact from "./components/Contact";
@@ -10,6 +10,7 @@ function App() {
     <div className="min-h-screen bg-indigo-950">
       <div className="flex justify-center">
         <div className="mt-20">
+          
           <h2 className="flex justify-center text-4xl text-lime-500">
             Hola, soy
             <span className="inline-block ml-1 animate-pulse">_</span>
@@ -21,11 +22,11 @@ function App() {
             <About2/>
           </div>
           <div>
-            <Proyects/>
+            <Proyects2/>
           </div>
-          <div>
+          {/* <div>
             <Education/>
-          </div>
+          </div> */}
           <div>
             <Skills2/>
           </div>
