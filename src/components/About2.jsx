@@ -11,10 +11,10 @@ const About2 = () => {
             Sobre mí
             </h1>
             <p className="text-1xl text-violet-200 m-4 leading-tight mt-8">
-              Soy una persona apasionada a la creación de contenido y desarrollo web. En un principio comencé estudiando Ingeniería en Sistemas pero luego con el tiempo me di cuenta que no era lo mío, al final decidí dedicarme a este mundo en crecimiento.
+              Soy una persona apasionada a la creación de contenido y desarrollo web. En un principio comencé estudiando Ingeniería en Sistemas pero luego con el tiempo me di cuenta que no era lo mío, pero al final decidí dedicarme a este mundo en crecimiento.
             </p>
             <h3 className="text-2xl text-lime-500 m-4 underline decoration-dotted mt-8">
-              ACTUALMENTE ESTUDIO Y BUSCO AMPLIAR MI EXPERIENCIA EN EL CAMPO LABORAL DE DESARROLLO WEB
+              ACTUALMENTE ESTUDIO Y BUSCO AMPLIAR MI EXPERIENCIA EN EL CAMPO LABORAL DEL DESARROLLO WEB
             </h3>
             <p className="text-1xl text-violet-200 mt-8 leading-tight m-4">
               En mis tiempos libres me gusta ir a entrenar, andar en skate y jugar videojuegos. Actualmente tengo un canal de twitch.

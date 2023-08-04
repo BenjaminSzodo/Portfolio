@@ -3,7 +3,7 @@ import About2 from "./components/About2";
 import Proyects2 from "./components/Proyects2";
 import Education from "./components/Education";
 import Skills2 from "./components/Skills2";
-import Contact from "./components/Contact";
+import Contact2 from "./components/Contact2";
 
 function App() {
   return (
@@ -11,11 +11,11 @@ function App() {
       <div className="flex justify-center">
         <div className="mt-20">
           
-          <h2 className="flex justify-center text-4xl text-lime-500">
+          <h2 className="flex justify-center text-2xl sm:text-4xl text-lime-500 text-center">
             Hola, soy
             <span className="inline-block ml-1 animate-pulse">_</span>
           </h2>
-          <h1 className="flex justify-center text-8xl underline decoration-dashed decoration-sky-500 text-violet-200">
+          <h1 className="flex justify-center text-5xl sm:text-7xl md:text-8xl underline decoration-dashed decoration-sky-500 text-violet-200 text-center">
             Benjamin Szodo
           </h1>
           <div>
@@ -31,7 +31,7 @@ function App() {
             <Skills2/>
           </div>
           <div>
-            <Contact/>
+            <Contact2/>
           </div>
         </div>
       </div>

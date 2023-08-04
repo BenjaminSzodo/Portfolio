@@ -8,13 +8,13 @@ const Proyects2 = () => {
         <div class="max-w-6xl mx-auto px-5 py-24 ">
             <div >
             <div className="text-center mb-2">
-            <h1 className=" border-2 border-green-500 title-font mb-4 text-5xl font-extrabold leading-10 tracking-tight sm:text-6xl sm:leading-none md:text-6xl  bg-gradient-to-tr from-sky-500 to-sky-700 bg-clip-text font-sans text-transparent antialiased flex justify-center " >
+            <h1 className=" title-font mb-4 text-5xl font-extrabold leading-10 tracking-tight sm:text-6xl sm:leading-none md:text-6xl   font-sans text-sky-600 antialiased flex justify-center " >
             Proyectos
             </h1>
             <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-violet-200">Estos son algunas de los proyectos que he realizado.</p>
             </div>
             </div>
-            <div className="flex gap-8 justify-center">
+            <div className="flex gap-8 justify-center md:flex-row flex-col">
 
       
       <section>
