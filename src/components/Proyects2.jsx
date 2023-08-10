@@ -58,7 +58,7 @@ const Proyects2 = () => {
       </section>
       <section>
       <a
-          href="https://facil-market-proyect.vercel.app/" target="_blank"
+          href="https://www.youtube.com/watch?v=XQNHgjvIK84" target="_blank"
           className="group block max-w-xs mx-auto rounded-lg p-6 bg-gray-800 ring-1 ring-slate-900/5 shadow-lg space-y-3 hover:bg-lime-700 hover:ring-lime-700"
         >
           <div className="flex items-center space-x-3">
