@@ -23,16 +23,16 @@ const About2 = () => {
                 <h2 className='title-font text-4xl font-extrabold leading-10 tracking-tight sm:text-5xl sm:leading-none md:text-4xl  bg-gradient-to-tr from-sky-500 to-sky-700 bg-clip-text font-sans text-transparent antialiased mt-8 m-4'>Educación:</h2>
                 <section className="w-25 mx-auto max-w-md">
             <div className="mx-auto lg:max-w-7xl">
-              <div className="max-w-xl rounded-lg border border-gray-200 shadow-lg dark bg-gray-800 dark:border-gray-800">
+              <div className="max-w-xl rounded-lg border  shadow-lg dark bg-gray-800 dark:border-gray-800">
                 <img src={logo} alt="logo" className="rounded-t-lg px-4 py-2 mt-4 w-40" />
                 <div className="p-5">
-                  <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                  <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-200 dark:text-gray-200">
                     Bootcamp para Full Stack Developer
                   </h5>
                   <div className="text-xs font-bold uppercase text-lime-500 mt-1 mb-2">
                     +800 horas de programación
                   </div>
-                  <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
+                  <p className="mb-3 font-normal text-gray-200 dark:text-gray-200">
                     Curso online basado en prácticas y proyectos reales, aprenderás las habilidades más demandadas del mercado.
                   </p>
                   <a
